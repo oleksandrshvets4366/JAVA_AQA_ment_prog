@@ -1,3 +1,5 @@
+package JavaMentorProgram;
+
 public class BublSortAlgr {
     void bubbleSort (int a[])
     {
