@@ -1,8 +1,8 @@
 public class JavaP1QuadraticEquation {
     public static void main (String [] argrs) {
-        double a = 1;
-        double b = 5;
-        double c = 2;
+        double a = 5;
+        double b = 0;
+        double c = 30;
         double d;      // to define discriminant
         d = b*b  - 4*a*c;
         double x1;

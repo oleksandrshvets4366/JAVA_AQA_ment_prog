@@ -1,7 +1,7 @@
 public class ComputePi {
     public static void main (String [] args) {
         int innerCount = 0;      // number of points, which can be paced into the circle
-        int count = 20000;       // value for number of points at circle
+        int count = 550000;       // value for number of points at circle
         double x, y;            // coordinates
         double p;               //result
 
